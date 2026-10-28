@@ -1120,6 +1120,7 @@ footer {
   cursor: pointer;
   transition: all 300ms ease;
 }
+
 .footer__social--link:hover {
   background-color: rgba(203, 213, 224);
 }
